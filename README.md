@@ -8,37 +8,27 @@ this will control the vehicle headlights depending on how bright it is outside.
 
 ## Parts List
 
-DuinoTECH Lite (LEONARDO)
-CAT.NO: XC4430
-$29.95
-https://www.jaycar.com.au/duinotech-lite-leonardo/p/XC4430
+<a href=https://www.jaycar.com.au/duinotech-lite-leonardo/p/XC4430>DuinoTECH Lite (LEONARDO)</a><br>
+CAT.NO: XC4430<br>
+$29.95<br>
 
+<a href=https://www.jaycar.com.au/arduino-compatible-5v-relay-board/p/XC4419>Arduino Compatible 5V Relay Board</a><br>
+CAT.NO: XC4419<br>
+$5.45<br>
 
-Arduino Compatible 5V Relay Board
-CAT.NO: XC4419
-$5.45
-https://www.jaycar.com.au/arduino-compatible-5v-relay-board/p/XC4419
+<a href=https://www.jaycar.com.au/light-sensor-module-for-arduino/p/XC4228>Light Sensor Module for Arduino</a><br>
+CAT.NO: XC4228<br>
+$5.10<br>
 
-
-
-Light Sensor Module for Arduino
-CAT.NO: XC4228
-$5.10
-https://www.jaycar.com.au/light-sensor-module-for-arduino/p/XC4228
-
-
-
-Bulkhead Plastic Mount Case - 110(L) x 66(W) x 36(D)mm
-CAT.NO: HB6080
-$5.75
-https://www.jaycar.com.au/bulkhead-plastic-mount-case-110-l-x-66-w-x-36-d-mm/p/HB6080
-
+<a href=https://www.jaycar.com.au/bulkhead-plastic-mount-case-110-l-x-66-w-x-36-d-mm/p/HB6080>Bulkhead Plastic Mount Case - 110(L) x 66(W) x 36(D)mm</a><br>
+CAT.NO: HB6080<br>
+$5.75<br>
 
 
 Total Cost: $45.80
 
 
-<img src=https://github.com/stooged/Auto-Headlights/blob/main/pics/Schematic.jpg>
+<img src=https://github.com/stooged/Auto-Headlights/blob/main/pics/Schematic.jpg><br>
 
 
 
