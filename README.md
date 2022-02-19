@@ -28,9 +28,12 @@ $5.75<br>
 Total Cost: $45.80
 
 
+
+
+
 <img src=https://github.com/stooged/Auto-Headlights/blob/main/pics/Schematic.jpg><br>
 
-
+<a href=https://github.com/stooged/Auto-Headlights/tree/main/pics>more pictures</a><br>
 
 test<br>
 [![video](https://yt-embed.herokuapp.com/embed?v=Y0J4Nsfx5jM)](https://youtu.be/Y0J4Nsfx5jM)
